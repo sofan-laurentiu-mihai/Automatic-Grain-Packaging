@@ -24,4 +24,4 @@ This is a technical group project focused on industrial automation and IoT integ
 **Sofan Laurentiu-Mihai** - Hardware & Software Engineer
 **Burja Irina** - Hardware & Software Engineer
 
-**There is a short video presentation of our project at**
+**There is a short video presentation of our project at** https://youtube.com/shorts/bvrgaChIbaI?feature=share
