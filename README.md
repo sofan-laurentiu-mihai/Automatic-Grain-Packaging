@@ -20,8 +20,10 @@ The process follows a strict sequential logic to maintain operational safety:
 * **Industrial Reliability:** Built on the **Arduino Opta** platform for robust, long-term performance.
 * **User-friendly Interface:** Simple manual start-up with visual LED indicators
 ## Credits 🖋️
-This is a technical group project focused on industrial automation and IoT integration
+This is a technical group project focused on industrial automation and IoT integration.
+
 **Sofan Laurentiu-Mihai** - Hardware & Software Engineer
+
 **Burja Irina** - Hardware & Software Engineer
 
 **There is a short video presentation of our project at** https://youtube.com/shorts/bvrgaChIbaI?feature=share
